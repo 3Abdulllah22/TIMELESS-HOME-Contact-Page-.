@@ -1,0 +1,68 @@
+.contact_img {
+    min-height: 100vh;
+    background-image: url(pexels-scottwebb-1931143.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 0;
+}
+header {
+    padding: 20px 50px;
+    background-color: #596b37;
+    color: #ffffff;
+    font-size: 80px;
+    margin:-10px;
+    position: relative;
+}
+nav a {
+    position: relative;
+    top: -50px;
+    left: -40px;
+    color: #ffffff;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 22px;
+}
+input {
+    width: 500px;
+    height: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: #596b37;
+    color: white;
+    padding: 1px;
+}
+main h1 {
+    font-size: 70px;
+    text-align: left;
+    color:#596b37;
+    position: relative;
+    height: 130px;
+    left: 18px;
+}
+body {
+    margin: 0px;
+}
+div p {
+    color: #000000;
+    font-size:  30px;
+     position: relative;
+    left: 18px;
+}
+nav ul {
+    text-align: right;
+}
+
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    color: #596b37;
+}
